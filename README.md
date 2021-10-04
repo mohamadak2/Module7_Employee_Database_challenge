@@ -20,6 +20,7 @@ We wanted to find the employes that are elligible for the mentorship program.
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 -Seeing that 1549 employees are about to retire, we would need to fill that many roles as the "silver tsunami" begins to make an impact.
 Here is a break down of the 1549 employees by title:
+
 ![image](https://user-images.githubusercontent.com/47649575/135801132-c300603c-97eb-4c9b-a1eb-408bf69ee43d.png)
 
 As you can see you need to replace the 568 Senior Staff as well as the 501 Engineers.
